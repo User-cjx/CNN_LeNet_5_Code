@@ -1,0 +1,12 @@
+# 忽略数据集和无关的
+data/
+for_reference_only/
+predict.py
+
+# 忽略模型权重和运行产物
+checkpoints/
+run/
+
+# 忽略缓存和 IDE 配置
+__pycache__/
+.idea/
